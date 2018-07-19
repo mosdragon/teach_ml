@@ -1,4 +1,4 @@
-age, education-num, marital-status, relationship, race, hours-per-week, sex
+age,education-num,marital-status,relationship,race,hours-per-week,sex
 39,13, Never-married, Not-in-family, White,40, Male
 50,13, Married-civ-spouse, Husband, White,13, Male
 38,9, Divorced, Not-in-family, White,40, Male
